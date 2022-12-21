@@ -1,0 +1,25 @@
+{
+  "name": "datality",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akash Roy",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-cdk/aws-ssm": "^1.122.0",
+    "aws-sdk": "^2.986.0",
+    "axios": "^0.24.0",
+    "cognito-express": "^2.0.19",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "nanoid": "^3.1.25",
+    "near-api-js": "^0.42.0",
+    "near-seed-phrase": "^0.2.0",
+    "nodemon": "^2.0.12",
+    "pg": "^8.7.1"
+  }
+}
